@@ -11,7 +11,7 @@ from PIL import Image
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
 # Токен вашего бота
-TOKEN = '6891156935:AAGebRyO0ayEpyBgMOIJ4svxzM-ZDg2UgFs'
+TOKEN = 'Твой токен'
 
 # Создание объектов Bot и Dispatcher
 bot = Bot(token=TOKEN)
